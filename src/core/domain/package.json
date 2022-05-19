@@ -1,0 +1,19 @@
+{
+  "name": "@foodstack/core-domain",
+  "author": "@EddieMachete",
+  "description": "",
+  "license": "Apache-2.0",
+  "main": "index.ts",
+  "repository": "https://github.com/foodstack/FoodStack.git",
+  "scripts": {},
+  "keywords": [
+    "foodstack",
+    "core",
+    "domain",
+    "business",
+    "clean architecture"
+  ],
+  "dependencies": {},
+  "devDependencies": {},
+  "version": "0.0.1"
+}
